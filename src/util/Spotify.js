@@ -1,6 +1,6 @@
 /*import { SearchBar } from "../Components/SearchBar/SearchBar";*/
 let accessToken;
-const clientId = '729a63886ab9440faa3137c7b2045db2';
+const clientId = 'PRIVATE';
 const redirectUri = 'https://we_be_jammming.surge.sh/';
 
 const Spotify = {
